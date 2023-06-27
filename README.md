@@ -23,7 +23,7 @@
 - pandas & 데이터 다루기
 
 응용
-- (빅분기 실기 1번)
+- (빅분기 실기 작업형1번 수준)
 
 <교재>
 - [점프 투 파이썬](https://wikidocs.net/book/1)
@@ -33,16 +33,16 @@
 
 머신러닝
 - feature engineering (전처리)
-- sklearn을 이용한 classification & regression models
+- ML classification & regression models
 - cross-validation
 - feature importance
-- (..tbc..)
+- (...)
 
 가설검정, 분포 등
-- scipy, statsmodels 등
+- scipy, statsmodels 등 사용
 
 응용
-- (빅분기 실기 2, 3번)
+- (빅분기 실기 작업형 2번, 3번 수준)
 
 ## 중급단계
 
