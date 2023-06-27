@@ -2,8 +2,10 @@
 - 개요: 파이썬 연습 모임
 - 위치: 세종특별자치시 남세종로
 
-# 이번 주 숙제 (입문 클래스)
-- [**문제 1~50번**](https://wikidocs.net/book/922) (형식은 [이 노트북](https://github.com/jo-cho/pyhub/blob/main/homework_example.ipynb)을 참고)
+# 숙제 (입문단계) 
+## 1주차 ('23.6.20 ~ '23.6.27)
+- [**교재**](https://wikidocs.net/book/1) 2장 (02-1, 02-2, 02-8 우선) 공부
+- [**문제 1~50번**](https://wikidocs.net/book/922) 주피터로 작성(형식은 [이 노트북](https://github.com/jo-cho/pyhub/blob/main/homework_example.ipynb)을 참고)
 - Jupyter Notebook 익히기
 - 깃허브(GitHub) 회원가입하기
 - 깃허브 데스크톱(Github Desktop) 설치 후 commit, push & pull 실행
