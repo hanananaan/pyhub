@@ -1,16 +1,17 @@
 # pyhub
+- 개요: 파이썬 연습 모임
+- 위치: 세종특별자치시 남세종로
 
-- 파이썬 연습 모임
-- (곧 Private처리 될 예정)
-
-
-**이번 주 숙제**
-- **문제 1~50번**
-- 주피터노트북 익히기
+# 이번 주 숙제 (입문 클래스)
+- [**문제 1~50번**](https://wikidocs.net/book/922) (형식은 [이 노트북](https://github.com/jo-cho/pyhub/blob/main/homework_example.ipynb)을 참고)
+- Jupyter Notebook 익히기
 - 깃허브(GitHub) 회원가입하기
+- 깃허브 데스크톱(Github Desktop) 설치 후 commit, push & pull 실행
+
+
 
 ------------------
-**커리큘럼**
+# 커리큘럼
 
 ## 입문단계
 
@@ -22,7 +23,7 @@
 - pandas & 데이터 다루기
 
 응용
-- (빅분기 실기 1번)
+- (빅분기 실기 작업형1번 수준)
 
 <교재>
 - [점프 투 파이썬](https://wikidocs.net/book/1)
@@ -32,16 +33,16 @@
 
 머신러닝
 - feature engineering (전처리)
-- sklearn을 이용한 classification & regression models
+- ML classification & regression models
 - cross-validation
 - feature importance
-- (..tbc..)
+- (...)
 
 가설검정, 분포 등
-- scipy, statsmodels 등
+- scipy, statsmodels 등 사용
 
 응용
-- (빅분기 실기 2, 3번)
+- (빅분기 실기 작업형 2번, 3번 수준)
 
 ## 중급단계
 
